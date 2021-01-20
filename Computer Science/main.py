@@ -1,6 +1,6 @@
 # [[
 #
-# Tom Roughley
+# Tom
 #
 # OCR Task 2 Dice Game
 #
